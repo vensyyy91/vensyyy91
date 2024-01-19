@@ -1,8 +1,8 @@
-### Hi there, I'm Vasiliy <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### Привет, меня зовут Василий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- 🌱 I’m currently learning Java
-- 👯 I’m currently looking for a job as Java developer
-- 📫 How to reach me:
+- 🌱 Мой стек: Java, Spring, Spring Boot, PostgreSQL, Hibernate, Docker, Git, Maven
+- 👯 В настоящий момент ищу работу в качестве Java-разработчика
+- 📫 Мои контакты:
   - vensyyy91@yandex.ru
   - https://t.me/vensy
 
