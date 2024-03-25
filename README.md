@@ -1,7 +1,6 @@
-### Привет! Меня зовут Василий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### Привет! Меня зовут Василий, я Java-разработчик <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - 🌱 Мой стек: Java, Spring, Spring Boot, PostgreSQL, Hibernate, Docker, Maven, Git
-- 👯 В настоящий момент ищу работу в качестве Java-разработчика
 - 📫 Мои контакты:
   - vensyyy91@yandex.ru
   - https://t.me/vensy
